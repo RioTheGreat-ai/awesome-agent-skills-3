@@ -103,6 +103,7 @@ Agent Skills 开放标准已得到 OpenAI/Google/Github/Cursor 等多家 AI 行�
 ### 其他类型
 
 -   [anthropics/skills](https://github.com/anthropics/skills)：Anthropic 官方 Skills 集合，适合学习 Skill 优质实例
+-   [huangserva/skill-prompt-generator](https://github.com/huangserva/skill-prompt-generator)：使用 Skill 生成和优化文生图提示词
 -   [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)：使用文件规划实现类 Manus 效果的 Skill
 -   [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills)： 面向科研工作者的 Skills 集合
 
