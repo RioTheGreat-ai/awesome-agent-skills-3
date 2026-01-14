@@ -16,7 +16,7 @@
   </a>
 </p>
 
-本项目致力于收集和分享最优质的 Agent Skills 资源、教程和实践，欢迎通过 Issues 提交参与共建。
+本项目致力于收集和分享最优质的中文 Agent Skills 资源、教程和实践，欢迎通过 Issues 提交参与共建。
 
 > 关注我的 X 账号 [@李不凯正在研究](https://x.com/libukai) ，即时获取有关 Agent Skills 的最新资讯和实用教程！
 
