@@ -48,6 +48,7 @@ Agent Skills 是一个由 Anthropic 维护的 [开放标准](https://agentskills
 
 -   [@凡人小北：中推圈都在教怎么写 Skill，但你可能正在重复 MCP 的错误](https://x.com/frxiaobei/status/2011075599083995566)
 -   [@deeptoai：Claude Agent Skills 第一性原理深度解析](https://skills.deeptoai.com/zh/docs/ai-ml/claude-agent-skills-first-principles-deep-dive)
+-   [@宝玉：Claude Code 的"懒加载"更新：AI 终于学会了"随叫随到"](https://x.com/dotey/status/2011660434516873264)
 
 ## 官方支持
 
