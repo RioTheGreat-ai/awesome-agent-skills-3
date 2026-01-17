@@ -40,7 +40,7 @@ Agent Skills 是一个由 Anthropic 维护的 [开放标准](https://agentskills
 ### 进阶教程
 
 -   [@宝玉：五步框架把 Workflow 变成可进化的 Skill](https://x.com/dotey/status/2010176124450484638)
--   [@向阳乔木：小白友好的 OpenCode Skill 实操指南](https://x.com/vista8/status/2010540934359097689)
+
 -   [@歸藏：带动效的 PPT 生成 Agent！使用教学&创作思路](https://x.com/op7418/status/2010979152284041401)
 -   [@李不凯正在研究：Cherry Studio 中应用 Agent Skills 最佳实践](https://mp.weixin.qq.com/s/nqBMW9QaTcagohzy2gXaZA)
 
@@ -49,6 +49,12 @@ Agent Skills 是一个由 Anthropic 维护的 [开放标准](https://agentskills
 -   [@凡人小北：中推圈都在教怎么写 Skill，但你可能正在重复 MCP 的错误](https://x.com/frxiaobei/status/2011075599083995566)
 -   [@deeptoai：Claude Agent Skills 第一性原理深度解析](https://skills.deeptoai.com/zh/docs/ai-ml/claude-agent-skills-first-principles-deep-dive)
 -   [@宝玉：Claude Code 的"懒加载"更新：AI 终于学会了"随叫随到"](https://x.com/dotey/status/2011660434516873264)
+
+### 视频教程
+
+- [@马克的技术工作坊：Agent Skill 从使用到原理，一次讲清](https://www.youtube.com/watch?v=yDc0_8emz7M)
+- [@白白说大模型：别再造 Agent 了，未来是Skills的](https://www.youtube.com/watch?v=xeoWgfkxADI)
+- [@01Coder：OpenCode + 智谱GLM + Agent Skills打造高质量智能开发环境](https://www.youtube.com/watch?v=mGzY2bCoVhU)
 
 ## 官方支持
 
