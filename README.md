@@ -24,12 +24,15 @@
 
 > 欢迎关注我的 🐦‍⬛ 账号 [@李不凯正在研究](https://x.com/libukai) ，即时获取 Agent Skills 的最新资讯和实用教程！
 
-
 ## 快速入门
 
-Agent Skills 是一个由 Anthropic 维护的 [开放标准](https://agentskills.io/home)，能便捷地将个人经验转化为 AI Skill，快速构建轻量级的 Personal Agent。
+Agent Skills 是一个由 Anthropic 维护的 [开放标准](https://agentskills.io/home)，通过定义特定任务执行规范，能便捷地将个人经验转化为 AI Skill，快速构建轻量级的 Personal Agent。
+
+按照标准规范，每个 Skill 都应该是一个文件夹，其中包括了 Markdown 文档、可执行脚本和其他类型素材文件。
 
 ![](assets/skills-sketch.png)
+
+## 教程合集
 
 ### 喂饭教程
 
@@ -40,7 +43,6 @@ Agent Skills 是一个由 Anthropic 维护的 [开放标准](https://agentskills
 ### 进阶教程
 
 -   [@宝玉：五步框架把 Workflow 变成可进化的 Skill](https://x.com/dotey/status/2010176124450484638)
-
 -   [@歸藏：带动效的 PPT 生成 Agent！使用教学&创作思路](https://x.com/op7418/status/2010979152284041401)
 -   [@李不凯正在研究：Cherry Studio 中应用 Agent Skills 最佳实践](https://mp.weixin.qq.com/s/nqBMW9QaTcagohzy2gXaZA)
 
@@ -60,7 +62,7 @@ Agent Skills 是一个由 Anthropic 维护的 [开放标准](https://agentskills
 
 Agent Skills 开放标准已得到 OpenAI/Google/Microsoft/Cursor 等多家 AI 行业领军公司的支持，迅速成为各大主流 AI 编程工具的标配。
 
-安装 Agent Skills，只需要将 Skill 文件夹放入对应的目录即可。也可以使用 Vercel 官方出品的 [add-skill](https://github.com/vercel-labs/add-skill) 工具通过命令行快速添加，如果有多 Coding CLI 同步需求，还可以使用 [runkids/skillshare](https://github.com/runkids/skillshare) 进行统一管理。
+安装 Agent Skills，只需要将 Skill 文件夹放入对应的目录即可。也可以使用 Vercel 官方出品的 [add-skill](https://github.com/vercel-labs/add-skill) 工具通过命令行快速添加，如果有多 Coding CLI 同步需求，还可以使用 [skillshare](https://github.com/runkids/skillshare) 进行统一管理。
 
 ![](assets/skills_path.png)
 
@@ -68,7 +70,7 @@ Agent Skills 开放标准已得到 OpenAI/Google/Microsoft/Cursor 等多家 AI �
 
 -   [Anthropic/Claude Code](https://claude.com/skills)： 在 Claude Code 中使用 Skills 的说明文档
 -   [OpenAI/Codex](https://developers.openai.com/codex/skills/)： 在 Codex 中使用 Skills 的说明文档
--   [Google/Gemini Cli](https://geminicli.com/docs/cli/skills/)： 在 Gemini Cli 中使用 Skills 的说明文档
+-   [Google/Gemini CLI](https://geminicli.com/docs/cli/skills/)： 在 Gemini Cli 中使用 Skills 的说明文档
 
 ### IDE 工具
 
@@ -85,9 +87,8 @@ Agent Skills 开放标准已得到 OpenAI/Google/Microsoft/Cursor 等多家 AI �
 
 其他特色 Agent Skills 商店：
 -   [SkillStore](https://skillstore.io/zh-hans)：对 Skill 进行了安全审计的中文商店
--   [agentskills.me](https://agentskills.me/)：一个提供 Skill 开发者分成机制的商店
--   [skills.rest](https://skills.rest/)：提供 Skill 评分的 Agent Skills 商店
--   [活水插件](https://42plugin.com/)：中文 Plugin 商店， 包括 Skills 板块
+-   [agentskills.me](https://agentskills.me/)：提供 Skill 开发者分成机制的商店
+-   [skills.rest](https://skills.rest/)：提供 Skill 评分的商店
 
 ## 精选技能
 
@@ -104,6 +105,7 @@ Agent Skills 开放标准已得到 OpenAI/Google/Microsoft/Cursor 等多家 AI �
 
 ### 编程辅助
 
+-   [anthropics/skills](https://github.com/anthropics/skills)：Anthropic 官方 Skills 集合
 -   [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills)：Vercel 官方出品的编程 Skills 集合
 -   [obra/superpowers](https://github.com/obra/superpowers/tree/main/skills): 涵盖完整编程项目工作流程的 Skills 集合
 -   [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)：涵盖多个编程类任务的优质 Skills 集合
@@ -114,9 +116,9 @@ Agent Skills 开放标准已得到 OpenAI/Google/Microsoft/Cursor 等多家 AI �
 -   [langgenius/dify](https://github.com/langgenius/dify/tree/main/.claude/skills)：Dify 官方出品的多功能 Skills 集合
 -   [czlonkowski/n8n-skills](https://github.com/czlonkowski/n8n-skills)：创建 n8n 工作流的 Skills 集合
 -   [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)：增强 Obsidian 功能的 Skills 集合
+-   [huggingface/skills](https://github.com/huggingface/skills)：使用 Skill 在 HuggingFace 训练大模型
 -   [wshuyi/x-article-publisher-skill](https://github.com/wshuyi/x-article-publisher-skill): 发布 X 文章的 Skill
 -   [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py)：操控 NotebookLM 的 Skill
--   [huggingface/skills](https://github.com/huggingface/skills)：使用 Skill 在 HuggingFace 训练大模型
 
 ### 其他类型
 
@@ -124,7 +126,6 @@ Agent Skills 开放标准已得到 OpenAI/Google/Microsoft/Cursor 等多家 AI �
 -   [huangserva/skill-prompt-generator](https://github.com/huangserva/skill-prompt-generator)：黄佬使用 Skill 生成和优化文生图提示词
 -   [op7418/NanoBanana-PPT-Skills)](https://github.com/op7418/NanoBanana-PPT-Skills)：歸藏制作的基于 NanoBanana 生成 PPT 的 Skill
 -   [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)：使用文件规划实现类 Manus 效果的 Skill
--   [anthropics/skills](https://github.com/anthropics/skills)：Anthropic 官方 Skills 集合，适合学习 Skill 优质实例
 -   [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills)： 面向科研工作者的 Skills 集合
 
 ## 配套工具
