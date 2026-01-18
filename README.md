@@ -24,7 +24,7 @@
 
 <div align="center">
 
-[English](README_EN.md) | [日本語](README_JA.md) | 简体中文
+简体中文 | [English](README_EN.md) | [日本語](README_JA.md) 
 
 </div>
 
