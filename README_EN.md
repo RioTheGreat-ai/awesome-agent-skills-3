@@ -1,8 +1,4 @@
-<div align="center">
 
-English | [日本語](README_JA.md) | [简体中文](README.md)
-
-</div>
 
 <div>
   <p align="center">
@@ -24,6 +20,12 @@ English | [日本語](README_JA.md) | [简体中文](README.md)
       <img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg?style=flat-square" alt="License: Apache-2.0" />
     </a>
   </p>
+</div>
+
+<div align="center">
+
+English | [日本語](README_JA.md) | [简体中文](README.md)
+
 </div>
 
 This project is dedicated to collecting and sharing the finest Chinese-language Agent Skills tutorials, case studies, and best practices. Contributions are welcome via Issues.
