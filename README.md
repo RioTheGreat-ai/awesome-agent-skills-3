@@ -140,7 +140,7 @@ Agent Skills 作为一套基于文件系统的跨平台标准，可以灵活地�
 -   [stripe/ai](https://github.com/stripe/ai): Stripe 出品的金融支付相关 Skills 集合
 -   [sanity-io/agent-toolkit](https://github.com/sanity-io/agent-toolkit/tree/main/skills)：Sanity 出品的内容管理平台 Skills 集合
 -   [supabase/agent-skills](https://github.com/supabase/agent-skills)：Supabase 出品的 PostgreSQL 最佳实践
--   [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills)：Vercel 出品的 React Skills 集合
+-   [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills)：Vercel 出品的 React/Next Skills 集合
 
 
 ### 内容创作
